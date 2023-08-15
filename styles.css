@@ -42,7 +42,6 @@
   .day {
     letter-spacing: 0.3em;
     margin-right: -0.3em;
-    text-transform: uppercase;
   }
   
   .clock {
@@ -131,3 +130,7 @@
     padding: 10px;
     border-radius: 15px 15px ;
   }
+
+  .day {
+    text-transform: uppercase;
+}
